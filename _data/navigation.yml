@@ -1,10 +1,4 @@
-- name: News
-  link: /blog/
-- name: Software
-  link: /software/
-- name: Team
-  link: /team/
-- name: Publications
-  link: /publications/
-- name: Contact
-  link: /contact/
+- name: Vision
+  link: #Vision/
+- name: Goals
+  link: #Goals/
