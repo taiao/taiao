@@ -1,4 +1,8 @@
+- name: About Us
+  link: /index.html#Taiao
 - name: Vision
   link: /index.html#Vision
 - name: Goals
   link: /index.html#Goals
+- name: Contact us
+  link: /index.html#Contact
