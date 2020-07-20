@@ -1,10 +1,12 @@
 - name: About Us
-  link: /index.html#Taiao
+  link: '/index.html#Taiao'
 - name: Vision
-  link: /index.html#Vision
+  link: '/index.html#Vision'
 - name: Goals
-  link: /index.html#Goals
+  link: '/index.html#Goals'
 - name: Research Aims
-  link: /index.html#Aims
+  link: '/index.html#Aims'
+- name: Team
+  link:
 - name: Contact us
-  link: /index.html#Contact
+  link: '/index.html#Contact'
